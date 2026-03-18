@@ -6,6 +6,8 @@ build-backend = "hatchling.build"
 name = "polytomic-mcp"
 version = "1.0.0"
 description = "MCP server for Polytomic API integration"
+license = "MIT"
+authors = [{ name = "Samuel Allen" }]
 requires-python = ">=3.10"
 dependencies = [
     "mcp>=1.0.0",
